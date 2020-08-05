@@ -1,5 +1,5 @@
-class Post
-  attr_accessor :title, :author
+class Song
+  attr_accessor :title, :artist
   def initialize
     @title = nil
     @author = nil
